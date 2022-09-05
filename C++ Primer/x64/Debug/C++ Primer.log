@@ -1,0 +1,4 @@
+﻿  C++ Primer.cpp
+C:\Users\Brandon\source\repos\C++ Primer\C++ Primer\C++ Primer.cpp(56,19): warning C4101: 'sum': unreferenced local variable
+C:\Users\Brandon\source\repos\C++ Primer\C++ Primer\C++ Primer.cpp(65,18): warning C4101: 'b': unreferenced local variable
+  C++ Primer.vcxproj -> C:\Users\Brandon\source\repos\C++ Primer\x64\Debug\C++ Primer.exe
